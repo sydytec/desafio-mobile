@@ -23,3 +23,8 @@ Para isso utilize a API do RatesAPI (https://ratesapi.io/) para carregar as taxa
 - Não importa muito o quanto está bonita sua interface. O que conta é a regra de negócio.
 - Apesar de não importar ser bonita, exibir status de erros e carregamento é importante.
 - Se escolher BLOC no Flutter, você pode usar tanto RxDart como package de bloc. A escolha é livre.
+
+
+Você tem 7 dias para a conclusão do teste. Se concluir antes sinta-se a vontade para enviar antes desse prazo.
+
+Você deve enviar o link do seu repositório público para [mecontrata@sydy.com.br](mailto:mecontrata@sydy.com.br?subject=Desafio%20Técnico%20Mobile&body=Segue%20o%20meu%20desafio%20técnico,%20a%20implementação%20se%20encontra%20em:%20).
